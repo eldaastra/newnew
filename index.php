@@ -36,7 +36,8 @@
 </header>
 
 <div class="container">
-    <p>Ini adalah halaman index sederhana menggunakan PHP.</p>
+    <p>haiiii ini adalah halaman utama yang sering aku kunjungi, btw kamu apa kabar? aku senang kamu berkunjung kesini.</p>
+    <p>salam kenal yaa, aku elsss.</p>
 
     <?php
         echo "<p>Waktu saat ini: <b>" . date("d-m-Y H:i:s") . "</b></p>";
